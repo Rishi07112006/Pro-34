@@ -34,7 +34,7 @@ function draw() {
   drawSprites();
 
   fill("white");
-  text("Food : "+readStock, 200,100);
+  text("Food : "+foodS, 200,100);
 
   
   //add styles here
